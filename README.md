@@ -5,10 +5,10 @@
 [![MIT License](https://img.shields.io/github/last-commit/iandryrmro/court)](https://github.com/iandryrmro/Court)
 [![GPLv3 License](https://img.shields.io/github/languages/top/iandryrmro/court)](https://github.com/iandryrmro/Court)
 
-[Court] is a brand new mobile app in development. The latter is made for teens who are looking for people that shares the same interest as them and want to discuss about those.
+**Court** is a brand new mobile app in development. The latter is made for teens who are looking for people that shares the same interest as them and want to discuss/debate about those.
 
 ## 📷 Screenshots
-Here's some screenshots of Court.
+Here's some screenshots of **Court**.
 
 ![Capture](https://user-images.githubusercontent.com/91464334/178154682-6e1c9ac4-64f2-46fa-9512-f12fee4180ef.PNG)
 
