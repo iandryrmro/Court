@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/github/last-commit/iandryrmro/court)](https://github.com/iandryrmro/Court)
 [![GPLv3 License](https://img.shields.io/github/languages/top/iandryrmro/court)](https://github.com/iandryrmro/Court)
 
-**Court** is a brand new mobile app in development. The latter is made for teens who are looking for people that shares the same interest as them and want to discuss/debate about those.
+**Court** is a brand new mobile app in development. It is made for teens who are looking for people that shares the same interest as them and want to discuss/debate about those.
 
 ## 📷 Screenshots
 Here's some screenshots of **Court**.
