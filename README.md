@@ -45,6 +45,7 @@ In order to use this project, you will need to run these commands :
     - Download Expo Go on *App Store* or *Play Store*.
     - On your iPhone, open your camera and scan the QR code given in the terminal.
     - On your Android devise, press "Scan QR Code" on the "Home" tab on Expo Go, then scan the QR code in the terminal.
+ ![local](https://user-images.githubusercontent.com/91464334/178155398-2343f685-8a14-49cb-81f5-d55ad1d25cae.PNG)
 
 4. Routing and navigation
 ```bash
@@ -60,6 +61,10 @@ In order to use this project, you will need to run these commands :
 5. Add icons :
 ```bash
   npm install --save react-native-vector-icons
+```
+6. Add and use fonts :
+```bash
+  expo install expo-font
 ```
 6. Authentication, realtime database, cloud storage and more
 ```bash
