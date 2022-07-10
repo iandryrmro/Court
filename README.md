@@ -1,6 +1,5 @@
 
 # Court 
-![Fichier 2](https://user-images.githubusercontent.com/91464334/178154543-b9b6c333-7794-4067-a60a-349671503108.png)
 
 
 [![MIT License](https://img.shields.io/github/last-commit/iandryrmro/court)](https://github.com/iandryrmro/Court)
