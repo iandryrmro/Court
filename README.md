@@ -8,11 +8,12 @@
 
 [Court] is a brand new mobile app in development. The latter is made for teens who are looking for people that shares the same interest as them and want to discuss about those.
 
-## Screenshots
+## 📷 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Capture](https://user-images.githubusercontent.com/91464334/178154682-6e1c9ac4-64f2-46fa-9512-f12fee4180ef.PNG)
+![Capture2](https://user-images.githubusercontent.com/91464334/178154695-3ddfc395-99eb-4d41-a1d8-698e893e7d26.PNG)
+![Capture3](https://user-images.githubusercontent.com/91464334/178154703-6ddb4fd8-9efd-4e71-8d1b-ed64e02c6555.PNG)
+
 ## 💻 Technologies Used
 
 - React Native
@@ -70,11 +71,9 @@ To have access to the Firebase project, please contact me.
 - [@iandryrmro](https://www.github.com/iandryrmro)
 
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+Please contact me on my socials for any further information.
 
