@@ -1,0 +1,80 @@
+
+# Court 
+![App Screenshot](![Fichier3](https://user-images.githubusercontent.com/91464334/178154356-8a98b9b3-37df-48f5-9bc7-4aae2268a390.png)
+)
+
+[![MIT License](https://img.shields.io/github/last-commit/iandryrmro/court)](https://github.com/iandryrmro/Court)
+[![GPLv3 License](https://img.shields.io/github/languages/top/iandryrmro/court)](https://github.com/iandryrmro/Court)
+
+[Court] is a brand new mobile app in development. The latter is made for teens who are looking for people that shares the same interest as them and want to discuss about those.
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## 💻 Technologies Used
+
+- React Native
+- React Navigation
+- React Native Vector Icons
+- Expo
+- Expo Font
+- Firebase
+
+## ⚙️ Installation & Set-up
+
+In order to use this project, you will need to run these commands :
+
+1. Installing Expo CLI.
+```bash
+  npm install --global expo-cli
+```
+
+2. Run the project.
+```bash
+# Navigate to the project directory
+  cd court
+
+# Start the development server
+    expo start
+```    
+
+3. Open the app on your phone
+    - Download Expo Go on [App Store] or [Play Store].
+    - On your iPhone, open your camera and scan the QR code given in the terminal.
+    - On your Android devise, press "Scan QR Code" on the "Home" tab on Expo Go, then scan the QR code in the terminal.
+
+4. Routing and navigation
+```bash
+# Navigate to the project directory
+  cd court
+
+# Install React Navigation
+    npm install @react-navigation/native
+
+# Install depedencies into the project
+    expo install react-native-screens react-native-safe-area-context
+```  
+5. Add icons :
+```bash
+  npm install --save react-native-vector-icons
+```
+6. Authentication, realtime database, cloud storage and more
+```bash
+  expo install firebase
+```    
+To have access to the Firebase project, please contact me.
+## 🧍 Authors
+
+- [@iandryrmro](https://www.github.com/iandryrmro)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
