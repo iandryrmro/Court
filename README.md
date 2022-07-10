@@ -1,7 +1,6 @@
 
 # Court 
-![App Screenshot](![Fichier3](https://user-images.githubusercontent.com/91464334/178154356-8a98b9b3-37df-48f5-9bc7-4aae2268a390.png)
-)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 [![MIT License](https://img.shields.io/github/last-commit/iandryrmro/court)](https://github.com/iandryrmro/Court)
 [![GPLv3 License](https://img.shields.io/github/languages/top/iandryrmro/court)](https://github.com/iandryrmro/Court)
