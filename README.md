@@ -11,13 +11,10 @@
 ## 📷 Screenshots
 Here's some screenshots of Court.
 
-1. Login Screen
 ![Capture](https://user-images.githubusercontent.com/91464334/178154682-6e1c9ac4-64f2-46fa-9512-f12fee4180ef.PNG)
 
-2. Home page
 ![Capture2](https://user-images.githubusercontent.com/91464334/178154695-3ddfc395-99eb-4d41-a1d8-698e893e7d26.PNG)
 
-3. Search page
 ![Capture3](https://user-images.githubusercontent.com/91464334/178154703-6ddb4fd8-9efd-4e71-8d1b-ed64e02c6555.PNG)
 
 ## 💻 Technologies Used
