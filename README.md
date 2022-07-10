@@ -66,7 +66,7 @@ In order to use this project, you will need to run these commands :
 ```bash
   expo install expo-font
 ```
-6. Authentication, realtime database, cloud storage and more
+7. Authentication, realtime database, cloud storage and more
 ```bash
   expo install firebase
 ```    
