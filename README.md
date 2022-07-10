@@ -42,7 +42,7 @@ In order to use this project, you will need to run these commands :
 ```    
 
 3. Open the app on your phone
-    - Download Expo Go on [App Store] or [Play Store].
+    - Download Expo Go on *App Store* or *Play Store*.
     - On your iPhone, open your camera and scan the QR code given in the terminal.
     - On your Android devise, press "Scan QR Code" on the "Home" tab on Expo Go, then scan the QR code in the terminal.
 
